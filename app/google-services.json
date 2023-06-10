@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604202103169",
+    "project_id": "turkcell-d4446",
+    "storage_bucket": "turkcell-d4446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604202103169:android:a6bd2d9fe70e4cf5d67880",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604202103169-g4epj92a23oj36e92span6sn5upu2vbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-oEU0FntqXMZM2l6gtjRqfSOVi9e58aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604202103169-g4epj92a23oj36e92span6sn5upu2vbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
