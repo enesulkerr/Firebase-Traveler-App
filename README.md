@@ -36,3 +36,8 @@ If you would like to contribute, please open an issue for your proposed changes 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://chat.openai.com/LICENSE) file for more information.
+
+
+<div align="center">
+<img src="https://github.com/enesulkerr/Firebase-Traveler-App/blob/master/image/Traveler.gif" width="300">
+<div align="center">
